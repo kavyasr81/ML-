@@ -19,13 +19,13 @@ train_label dataset is appended to train.csv as ‘Total_booking’ column.
 
 Descriptions of the columns present in the dataset
 
-datetime-hourly date +timestamp 
-season-spring, summer, autumn, winter
-holiday-whether the day is considered a holiday
-workingday-whether the day is neither a weekend nor holiday
-weather-Clear , Cloudy,  Light Rain, Heavy 
-temp-temperature in Celsius
-atemp-"feels like" temperature in Celsius
-humidity-relative humidity
-windspeed-wind speed
-Total_booking-number of total booking (train_label contains the data)
+- datetime-hourly date +timestamp 
+- season-spring, summer, autumn, winter
+- holiday-whether the day is considered a holiday
+- workingday-whether the day is neither a weekend nor holiday
+- weather-Clear , Cloudy,  Light Rain, Heavy 
+- temp-temperature in Celsius
+- atemp-"feels like" temperature in Celsius
+- humidity-relative humidity
+- windspeed-wind speed
+- Total_booking-number of total booking (train_label contains the data)
